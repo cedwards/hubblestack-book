@@ -1,5 +1,5 @@
-## Author
-### Christer Edwards
+# Author
+## Christer Edwards
 Christer Edwards is an infrastructure architect and technology evangelist
 living somewhere in Utah. He is passionate about open-source software and
 believes in teaching and preparing people for tomorrows technical challenges.

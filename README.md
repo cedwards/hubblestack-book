@@ -89,7 +89,7 @@ report all of this using a flexible and modular reporting engine.
    - Summary
 1. Configuration & Management
    - Introduction
-   - Managing Profiles via Revision Control
+   - Managing Profiles with Revision Control
    - Adjusting the Scheduler
    - Extending Reports
    - Maintaining the Fleet
