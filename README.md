@@ -43,7 +43,6 @@ report all of this using a flexible and modular reporting engine.
    - Navigating This Book
    - Conventions Used In This Book
    - Online Resources
-   - HubbleStack Community
    - Contact the Author
    - Acknowledgements
 1. Introduction
