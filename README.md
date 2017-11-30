@@ -37,7 +37,7 @@ report all of this using a flexible and modular reporting engine.
 ## Table of Contents
 1. Forward
    - (???)
-1. Preface
+1. [Preface](chapters/01-Preface/a-who-should-read-this-book.md)
    - Who Should Read This Book
    - Why I Wrote This Book
    - Navigating This Book
