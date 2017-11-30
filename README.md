@@ -2,9 +2,9 @@
 HubbleStack: Open-Source Security Monitoring
 
 ## Book Description
-HubbleStack was designed using a powerful framework that allows todays biggest
+HubbleStack was designed using a powerful framework that allows today's biggest
 enterprises to manage tens and even hundreds-of-thousands of servers. Focusing
-on scalability, flexibility and transparency, HubbleStack has quickly become
+on ability to scale, flexibility and transparency, HubbleStack has quickly become
 the tool of choice for many IT professionals. With this book you will learn how
 to leverage HubbleStack to better define, understand and actively monitor your
 IT security.
@@ -37,65 +37,67 @@ report all of this using a flexible and modular reporting engine.
 ## Table of Contents
 1. Forward
    - (???)
-1. [Preface](chapters/01-Preface/a-who-should-read-this-book.md)
-   - Who Should Read This Book
-   - Why I Wrote This Book
-   - Navigating This Book
-   - Conventions Used In This Book
-   - Online Resources
-   - Contact the Author
-   - Acknowledgements
+1. Preface
+   - [Who Should Read This Book](chapters/01-Preface/a-who-should-read-this-book.md)
+   - [Why I Wrote This Book](chapters/01-Preface/b-why-i-wrote-this-book.md)
+   - [Navigating This Book](chapters/01-Preface/c-navigating-this-book.md)
+   - [Conventions Used In This Book](chapters/01-Preface/d-conventions-used.md)
+   - [Online Resources](chapters/01-Preface/e-online-resources.md)
+   - [Contact the Author](chapters/01-Preface/f-contact-the-author.md)
+   - [Acknowledgments](chapters/01-Preface/g-acknowledgements.md)
 1. Introduction
-   - History of HubbleStack
-   - Motivation for HubbleStack
-   - Summary
+   - [History of HubbleStack](chapters/02-Introduction/a-history-of-hubblestack.md)
+   - [Motivation for HubbleStack](chapters/02-Introduction/b-motivation-for-hubblestack.md)
+   - [Summary](chapters/02-Irtroduction/z-summary.md)
 1. Installation - standalone
-   - Linux Installation
-   - Windows Installation
-   - Summary
+   - [Introduction](chapters/03-Installation/a-introduction.md)
+   - [RHEL Installation](chapters/03-Installation/a-rhel.md)
+   - [Debian Installation](chapters/03-Installation/a-debian.md)
+   - [Windows Installation](chapters/03-Installation/d-windows.md)
+   - [Summary](chapters/03-Installation/z-summary.md)
 1. Installation - SaltStack-addon
-   - HubbleStack via GitFS
-   - Scheduling
-   - Reporting
-   - Summary
+   - [HubbleStack via GitFS]()
+   - [Scheduling]()
+   - [Reporting]()
+   - [Summary]()
 1. Components
-   - Introduction
-   - What Can Hubble See?
-   - Summary
+   - [Introduction]()
+   - [What Can Hubble See?]()
+   - [Summary]()
 1. Nova - Hubble's Auditing Engine
-   - Introduction
-   - Security Profiles
-   - Security Modules
-   - Nova Utilities
-   - Extending Nova modules
-   - Summary
+   - [Introduction]()
+   - [Security Profiles]()
+   - [Security Modules]()
+   - [Nova Utilities]()
+   - [Extending Nova modules]()
+   - [Summary]()
 1. Nebula - Hubble's Insight Database
-   - Introduction
-   - osquery
-   - Extending Nebula
-   - Summary
+   - [Introduction]()
+   - [osquery]()
+   - [Extending Nebula]()
+   - [Summary]()
 1. Pulsar - Hubble's Event System
-   - Introduction
-   - File Integrity Monitoring
-   - Extending Pulsar
-   - Summary
+   - [Introduction]()
+   - [File Integrity Monitoring]()
+   - [Extending Pulsar]()
+   - [Summary]()
 1. Quasar - Hubble's Reporting Network
-   - Introduction
-   - Reporting to Logstash
-   - Reporting to Splunk
-   - Reporting to Slack
-   - Extending Quasar
-   - Summary
+   - [Introduction]()
+   - [Reporting to Logstash]()
+   - [Reporting to Splunk]()
+   - [Reporting to Slack]()
+   - [Extending Quasar]()
+   - [Summary]()
 1. Configuration & Management
-   - Introduction
-   - Managing Profiles with Revision Control
-   - Adjusting the Scheduler
-   - Extending Reports
-   - Maintaining the Fleet
-   - Performance Tuning
-   - Summary
+   - [Introduction]()
+   - [Managing Profiles with Revision Control]()
+   - [Adjusting the Scheduler]()
+   - [Extending Reports]()
+   - [Maintaining the Fleet]()
+   - [Performance Tuning]()
+   - [Summary]()
 1. Get Involved
-   - Contributing Security Profiles
-   - Contributing Security Modules
-   - Advocating for Better Security
-   - Summary
+   - [Contributing Security Profiles]()
+   - [Contributing Security Modules]()
+   - [Advocating for Better Security]()
+   - [Summary]()
