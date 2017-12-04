@@ -20,18 +20,18 @@ what's happening in the HubbleStack community.
 
 Finally, by the end of this book, you will be able to audit your systems, take
 snapshots of system activity, watch for real-time security events and
-report all of this using a flexible and modular reporting engine.
+detail everything using a flexible and modular reporting engine.
 
 ## What You Will Learn
 1. The real-world motivations for creating Hubble
 1. Steps to install Hubble on your servers
-1. How to schedule and execute on-demand audits on all of your systems
+1. How to schedule and execute on-demand audits on every one of your systems
 1. More clearly define your security policy and use Hubble to monitor it
 1. Create human-readable, revision-controlled security profiles
 1. Monitor physical or virtual servers in public and private clouds
 1. Extend Hubble to handle unique use-cases
 1. Leverage Hubble's event system to monitor for real-time security events
-1. How to write custom queries to obtain snapshots of system and network activity
+1. How to write custom queries to glean information about system and network activity
 1. Extend the reporting engine to deliver customized critical alerts
 
 ## Table of Contents
