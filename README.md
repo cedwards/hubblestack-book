@@ -1,26 +1,26 @@
 # Book Title (working title)
-HubbleStack: Open-Source Security Monitoring
+Hubble: See More.
 
-## Book Description
-HubbleStack uses a powerful framework that allows today's biggest
+## Book Description 
+Hubble uses an intelligent automation framework that allows today's  global
 enterprises to manage tens and even hundreds-of-thousands of servers. Focusing
-on ability to scale, flexibility and transparency, HubbleStack has quickly become
-the tool of choice for many IT professionals. With this book you will learn how
-to leverage HubbleStack to better define, understand and actively monitor your
-IT security.
+on the ability to scale, flexibility and transparency, Hubble has quickly
+become the tool of choice for IT professionals worldwide. With this book, you
+will learn how to leverage Hubble to define, understand and actively monitor
+your entire IT infrastructure.
 
-In this book you will learn the motivation for and history behind the project.
+In this book, you will learn the motivation for and history behind the project.
 You'll find step-by-step instructions on installation and examples of running
 your first commands. You'll also learn about extending Hubble for individual
 use cases. From there you will explore the main components of Hubble and learn
 how to compare your systems against industry best practices. Finally, you will
-discover some of the specific lenses HubbleStack uses to view the digital
-universe. We'll finish by exploring how to get involved with HubbleStack and
-what's happening in the HubbleStack community.
+discover some of the specific lenses Hubble uses to view the digital universe.
+We'll finish by exploring how to get involved with Hubble and what's happening
+in the Hubble community.
 
 Finally, by the end of this book, you will be able to audit your systems, take
-snapshots of system activity, watch for real-time security events and
-detail everything using a flexible and modular reporting engine.
+snapshots of system activity, watch for real-time security events and detail
+everything using a flexible and modular reporting engine.
 
 ## What You Will Learn
 1. The real-world motivations for creating Hubble
@@ -46,8 +46,8 @@ detail everything using a flexible and modular reporting engine.
    - [Contact the Author](chapters/01-Preface/f-contact-the-author.md)
    - [Acknowledgments](chapters/01-Preface/g-acknowledgements.md)
 1. Introduction
-   - [History of HubbleStack](chapters/02-Introduction/a-history-of-hubblestack.md)
-   - [Motivation for HubbleStack](chapters/02-Introduction/b-motivation-for-hubblestack.md)
+   - [History of Hubble](chapters/02-Introduction/a-history-of-hubblestack.md)
+   - [Motivation for Hubble](chapters/02-Introduction/b-motivation-for-hubblestack.md)
    - [Summary](chapters/02-Irtroduction/z-summary.md)
 1. Installation - standalone
    - [Introduction](chapters/03-Installation/a-introduction.md)
@@ -57,7 +57,7 @@ detail everything using a flexible and modular reporting engine.
    - [Summary](chapters/03-Installation/z-summary.md)
 1. Installation - SaltStack-addon
    - [Introduction](chapters/04-SaltStack-addon/a-introduction.md)
-   - [HubbleStack via GitFS](chapters/04-SaltStack-addon/b-installation.md)
+   - [Hubble via GitFS](chapters/04-SaltStack-addon/b-installation.md)
    - [Scheduling](chapters/04-SaltStack-addon/c-scheduling.md)
    - [Reporting](chapters/04-SaltStack-addon/d-reporting.md)
    - [Summary](chapters/04-SaltStack-addon/z-summary.md)
